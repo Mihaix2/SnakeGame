@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1634311474 source:c:\users\mihai\desktop\pe\da\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+
+1634311474 source:c:\users\mihai\desktop\pe\snake\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+
